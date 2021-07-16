@@ -1,0 +1,9 @@
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.deps.json
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.pdb
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.csprojAssemblyReference.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.AssemblyInfoInputs.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.AssemblyInfo.cs
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.pdb

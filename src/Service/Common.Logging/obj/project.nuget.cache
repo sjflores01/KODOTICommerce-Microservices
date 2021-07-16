@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHUU6qCmMeRh9hasalmI6KWL9SxFdEm43DX+xSMaNWwyRK/1OMlX8xmuJOssCfeMt5GyXjkmI/RIXViDcQHCRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Santi\\Documents\\Santi\\Practicas Varias\\Curso Microservicios\\KODOTI.Commerce\\src\\Service\\Common.Logging\\Common.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Santi\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.16\\microsoft.extensions.configuration.3.1.16.nupkg.sha512",
+    "C:\\Users\\Santi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.16\\microsoft.extensions.configuration.abstractions.3.1.16.nupkg.sha512",
+    "C:\\Users\\Santi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.16\\microsoft.extensions.configuration.binder.3.1.16.nupkg.sha512",
+    "C:\\Users\\Santi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.16\\microsoft.extensions.dependencyinjection.3.1.16.nupkg.sha512",
+    "C:\\Users\\Santi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.16\\microsoft.extensions.dependencyinjection.abstractions.3.1.16.nupkg.sha512",
+    "C:\\Users\\Santi\\.nuget\\packages\\microsoft.extensions.logging\\3.1.16\\microsoft.extensions.logging.3.1.16.nupkg.sha512",
+    "C:\\Users\\Santi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.16\\microsoft.extensions.logging.abstractions.3.1.16.nupkg.sha512",
+    "C:\\Users\\Santi\\.nuget\\packages\\microsoft.extensions.options\\3.1.16\\microsoft.extensions.options.3.1.16.nupkg.sha512",
+    "C:\\Users\\Santi\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.16\\microsoft.extensions.primitives.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

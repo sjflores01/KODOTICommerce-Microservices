@@ -1,0 +1,16 @@
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.deps.json
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.pdb
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csprojAssemblyReference.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.AssemblyInfo.cs
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.CopyComplete
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.pdb
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Common.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Common.pdb

@@ -1,0 +1,9 @@
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.deps.json
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csprojAssemblyReference.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfoInputs.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfo.cs
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.pdb

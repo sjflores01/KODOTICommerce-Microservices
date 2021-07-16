@@ -1,0 +1,12 @@
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csprojAssemblyReference.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.AssemblyInfo.cs
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.deps.json
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.CopyComplete
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
