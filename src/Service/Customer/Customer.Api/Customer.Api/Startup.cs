@@ -1,5 +1,6 @@
 using Customer.Persistence.Database;
 using Customer.Service.Queries;
+using HealthChecks.UI.Client;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
@@ -14,6 +15,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using Common.Logging;
 using System.Threading.Tasks;
 
 namespace Customer.Api
@@ -40,12 +42,17 @@ namespace Customer.Api
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            loggerFactory.AddSyslog(
+                Configuration.GetValue<string>("Papertrail:host"),
+                Configuration.GetValue<int>("Papertrail:port")
+            );
 
             app.UseRouting();
 
@@ -53,11 +60,11 @@ namespace Customer.Api
 
             app.UseEndpoints(endpoints =>
             {
-                //endpoints.MapHealthChecks("/hc",new HealthCheckOptions
-                //{
-                //    Predicate = _ => true,
-                //    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
-                //})
+                endpoints.MapHealthChecks("/hc", new HealthCheckOptions
+                {
+                    Predicate = _ => true,
+                    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
+                });
                 endpoints.MapControllers();
             });
         }

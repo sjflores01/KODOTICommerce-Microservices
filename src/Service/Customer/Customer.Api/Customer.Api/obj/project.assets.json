@@ -2,6 +2,36 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "AspNetCore.HealthChecks.UI.Client/3.1.1": {
+        "type": "package",
+        "dependencies": {
+          "AspNetCore.HealthChecks.UI.Core": "3.1.1",
+          "Microsoft.Extensions.Diagnostics.HealthChecks": "3.1.3"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/HealthChecks.UI.Client.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/HealthChecks.UI.Client.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "AspNetCore.HealthChecks.UI.Core/3.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.3",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.3",
+          "Microsoft.Extensions.Diagnostics.HealthChecks": "3.1.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/HealthChecks.UI.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/HealthChecks.UI.Core.dll": {}
+        }
+      },
       "MediatR/9.0.0": {
         "type": "package",
         "compile": {
@@ -255,6 +285,56 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Diagnostics.HealthChecks/3.1.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions": "3.1.3",
+          "Microsoft.Extensions.Hosting.Abstractions": "3.1.3",
+          "Microsoft.Extensions.Options": "3.1.3"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions/3.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Abstractions/3.1.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.3"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Hosting.Abstractions/3.1.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.3",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.3",
+          "Microsoft.Extensions.FileProviders.Abstractions": "3.1.3",
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.3"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll": {}
         }
       },
       "Microsoft.Extensions.Logging/3.1.16": {
@@ -1525,6 +1605,19 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Common.Logging/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.Extensions.Logging": "3.1.16"
+        },
+        "compile": {
+          "bin/placeholder/Common.Logging.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.Logging.dll": {}
+        }
+      },
       "Customer.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1616,6 +1709,30 @@
     }
   },
   "libraries": {
+    "AspNetCore.HealthChecks.UI.Client/3.1.1": {
+      "sha512": "EXM8gY1GMowFz6XU4CRS1qdrI5Vbc+ezsfVtBD3fLTOTrF/Jwf7yCYOFPMFE8yT6Nd90B47SSdFyLzQmZdnYUg==",
+      "type": "package",
+      "path": "aspnetcore.healthchecks.ui.client/3.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "aspnetcore.healthchecks.ui.client.3.1.1.nupkg.sha512",
+        "aspnetcore.healthchecks.ui.client.nuspec",
+        "lib/netcoreapp3.1/HealthChecks.UI.Client.dll"
+      ]
+    },
+    "AspNetCore.HealthChecks.UI.Core/3.1.1": {
+      "sha512": "gl+M/xrkPxo/EX2AP4wNRNZgpQvZGrvX8iwnbN3lR+hyBYQE4Xq1ISk48uyveVeUpM3x0fJub7uStUgL/rQzNA==",
+      "type": "package",
+      "path": "aspnetcore.healthchecks.ui.core/3.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "aspnetcore.healthchecks.ui.core.3.1.1.nupkg.sha512",
+        "aspnetcore.healthchecks.ui.core.nuspec",
+        "lib/netstandard2.0/HealthChecks.UI.Core.dll"
+      ]
+    },
     "MediatR/9.0.0": {
       "sha512": "8b3UYNxegHVYcJMG2zH8wn+YqxLvXG+eMfj0cMCq/jTW72p6O3PCKMkrIv0mqyxdW7bA4gblsocw7n+/9Akg5g==",
       "type": "package",
@@ -2041,6 +2158,70 @@
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
         "microsoft.extensions.dependencyinjection.abstractions.3.1.16.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Diagnostics.HealthChecks/3.1.3": {
+      "sha512": "3bzFIlOeaK9fMcXlrC/97qm/c4o1t8fc11jzAn5gw4kifm51npN1wMFkfZh5EKUk5mlAyn6nI1zYS+DXC91f7A==",
+      "type": "package",
+      "path": "microsoft.extensions.diagnostics.healthchecks/3.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Diagnostics.HealthChecks.xml",
+        "microsoft.extensions.diagnostics.healthchecks.3.1.3.nupkg.sha512",
+        "microsoft.extensions.diagnostics.healthchecks.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions/3.1.3": {
+      "sha512": "7bBimwDDZq5P1X7Kb7CWjHNsZBBFXxLtr6GbmnSz0K8871KRPLVNRxTeiLbzfd0IsWXGI7BcOjdqCwEOIZl2sw==",
+      "type": "package",
+      "path": "microsoft.extensions.diagnostics.healthchecks.abstractions/3.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.xml",
+        "microsoft.extensions.diagnostics.healthchecks.abstractions.3.1.3.nupkg.sha512",
+        "microsoft.extensions.diagnostics.healthchecks.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.FileProviders.Abstractions/3.1.3": {
+      "sha512": "vr1V6dj8NONgaTA/EdlwtJOaNXRBf6f/din15pkWM/RfTbdoqrr0mKcTRx4MD/AGwxgM0+G2rUT2pDQGa2tNtA==",
+      "type": "package",
+      "path": "microsoft.extensions.fileproviders.abstractions/3.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.xml",
+        "microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+        "microsoft.extensions.fileproviders.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Hosting.Abstractions/3.1.3": {
+      "sha512": "QBVyz//TkXEGPIEhL57LyA9dnwSLRlJh5OtEqoUZUqU2INcGjPxcP99mPjngSLjIcN2IfEEfkgOwjBQDlIo4Cg==",
+      "type": "package",
+      "path": "microsoft.extensions.hosting.abstractions/3.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.xml",
+        "microsoft.extensions.hosting.abstractions.3.1.3.nupkg.sha512",
+        "microsoft.extensions.hosting.abstractions.nuspec"
       ]
     },
     "Microsoft.Extensions.Logging/3.1.16": {
@@ -5925,6 +6106,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Common.Logging/1.0.0": {
+      "type": "project",
+      "path": "../../../Common.Logging/Common.Logging.csproj",
+      "msbuildProject": "../../../Common.Logging/Common.Logging.csproj"
+    },
     "Customer.Domain/1.0.0": {
       "type": "project",
       "path": "../../Customer.Domain/Customer.Domain/Customer.Domain.csproj",
@@ -5963,6 +6149,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "AspNetCore.HealthChecks.UI.Client >= 3.1.1",
+      "Common.Logging >= 1.0.0",
       "Customer.Persistence.Database >= 1.0.0",
       "Customer.Service.EventHandlers >= 1.0.0",
       "Customer.Service.Queries >= 1.0.0",
@@ -5999,6 +6187,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\Santi\\Documents\\Santi\\Practicas Varias\\Curso Microservicios\\KODOTI.Commerce\\src\\Service\\Common.Logging\\Common.Logging.csproj": {
+              "projectPath": "C:\\Users\\Santi\\Documents\\Santi\\Practicas Varias\\Curso Microservicios\\KODOTI.Commerce\\src\\Service\\Common.Logging\\Common.Logging.csproj"
+            },
             "C:\\Users\\Santi\\Documents\\Santi\\Practicas Varias\\Curso Microservicios\\KODOTI.Commerce\\src\\Service\\Customer\\Customer.Persistence.Database\\Customer.Persistence.Database\\Customer.Persistence.Database.csproj": {
               "projectPath": "C:\\Users\\Santi\\Documents\\Santi\\Practicas Varias\\Curso Microservicios\\KODOTI.Commerce\\src\\Service\\Customer\\Customer.Persistence.Database\\Customer.Persistence.Database\\Customer.Persistence.Database.csproj"
             },
@@ -6021,6 +6212,10 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "AspNetCore.HealthChecks.UI.Client": {
+            "target": "Package",
+            "version": "[3.1.1, )"
+          },
           "MediatR": {
             "target": "Package",
             "version": "[9.0.0, )"
