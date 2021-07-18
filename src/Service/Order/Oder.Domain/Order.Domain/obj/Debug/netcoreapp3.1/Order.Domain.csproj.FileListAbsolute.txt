@@ -1,0 +1,12 @@
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\bin\Debug\netcoreapp3.1\Order.Domain.deps.json
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\bin\Debug\netcoreapp3.1\Order.Domain.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\bin\Debug\netcoreapp3.1\Order.Domain.pdb
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\bin\Debug\netcoreapp3.1\Order.Common.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\bin\Debug\netcoreapp3.1\Order.Common.pdb
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.csprojAssemblyReference.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.AssemblyInfoInputs.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.AssemblyInfo.cs
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.csproj.CopyComplete
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.dll
+C:\Users\Santi\Documents\Santi\Practicas Varias\Curso Microservicios\KODOTI.Commerce\src\Service\Order\Oder.Domain\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.pdb
